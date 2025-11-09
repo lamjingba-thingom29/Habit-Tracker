@@ -13,7 +13,7 @@ This helps build consistency, discipline, and long-term self-improvement.
 ![Program Output](project_02_execute.jpg)
 
 ## Log Format Example
-2025-11-09 - Completed: ['Study', 'Exercise', 'Meditation']
+![Program Output](Screenshot 2025-11-09 152307.jpg)
 
 ## Skills Learned
 
